@@ -1,0 +1,18 @@
+C:\Users\UmarSahid\AppData\Local\Temporary Projects\Quiz_vb_Umar Sahid_K1\bin\Debug\Quiz_vb_Umar Sahid_K1.exe
+C:\Users\UmarSahid\AppData\Local\Temporary Projects\Quiz_vb_Umar Sahid_K1\bin\Debug\Quiz_vb_Umar Sahid_K1.pdb
+C:\Users\UmarSahid\AppData\Local\Temporary Projects\Quiz_vb_Umar Sahid_K1\bin\Debug\Quiz_vb_Umar Sahid_K1.xml
+C:\Users\UmarSahid\AppData\Local\Temporary Projects\Quiz_vb_Umar Sahid_K1\obj\x86\Debug\Quiz_vb_Umar_Sahid_K1.Form1.resources
+C:\Users\UmarSahid\AppData\Local\Temporary Projects\Quiz_vb_Umar Sahid_K1\obj\x86\Debug\Quiz_vb_Umar_Sahid_K1.Resources.resources
+C:\Users\UmarSahid\AppData\Local\Temporary Projects\Quiz_vb_Umar Sahid_K1\obj\x86\Debug\Quiz_vb_Umar Sahid_K1.vbproj.GenerateResource.Cache
+C:\Users\UmarSahid\AppData\Local\Temporary Projects\Quiz_vb_Umar Sahid_K1\obj\x86\Debug\Quiz_vb_Umar Sahid_K1.exe
+C:\Users\UmarSahid\AppData\Local\Temporary Projects\Quiz_vb_Umar Sahid_K1\obj\x86\Debug\Quiz_vb_Umar Sahid_K1.xml
+C:\Users\UmarSahid\AppData\Local\Temporary Projects\Quiz_vb_Umar Sahid_K1\obj\x86\Debug\Quiz_vb_Umar Sahid_K1.pdb
+C:\Users\UmarSahid\documents\visual studio 2010\Projects\Quiz_vb_Umar Sahid_K1\Quiz_vb_Umar Sahid_K1\obj\x86\Debug\Quiz_vb_Umar Sahid_K1.exe
+C:\Users\UmarSahid\documents\visual studio 2010\Projects\Quiz_vb_Umar Sahid_K1\Quiz_vb_Umar Sahid_K1\obj\x86\Debug\Quiz_vb_Umar Sahid_K1.xml
+C:\Users\UmarSahid\documents\visual studio 2010\Projects\Quiz_vb_Umar Sahid_K1\Quiz_vb_Umar Sahid_K1\obj\x86\Debug\Quiz_vb_Umar Sahid_K1.pdb
+C:\Users\UmarSahid\documents\visual studio 2010\Projects\Quiz_vb_Umar Sahid_K1\Quiz_vb_Umar Sahid_K1\bin\Debug\Quiz_vb_Umar Sahid_K1.exe
+C:\Users\UmarSahid\documents\visual studio 2010\Projects\Quiz_vb_Umar Sahid_K1\Quiz_vb_Umar Sahid_K1\bin\Debug\Quiz_vb_Umar Sahid_K1.pdb
+C:\Users\UmarSahid\documents\visual studio 2010\Projects\Quiz_vb_Umar Sahid_K1\Quiz_vb_Umar Sahid_K1\bin\Debug\Quiz_vb_Umar Sahid_K1.xml
+C:\Users\UmarSahid\documents\visual studio 2010\Projects\Quiz_vb_Umar Sahid_K1\Quiz_vb_Umar Sahid_K1\obj\x86\Debug\Quiz_vb_Umar_Sahid_K1.Form1.resources
+C:\Users\UmarSahid\documents\visual studio 2010\Projects\Quiz_vb_Umar Sahid_K1\Quiz_vb_Umar Sahid_K1\obj\x86\Debug\Quiz_vb_Umar_Sahid_K1.Resources.resources
+C:\Users\UmarSahid\documents\visual studio 2010\Projects\Quiz_vb_Umar Sahid_K1\Quiz_vb_Umar Sahid_K1\obj\x86\Debug\Quiz_vb_Umar Sahid_K1.vbproj.GenerateResource.Cache
